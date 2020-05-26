@@ -30,10 +30,10 @@ public class MiTelefono extends Frame {
         Panel panelPrincipal= new Panel(border);
         Panel panelCentral= new Panel(grid);
         
-        Button boton1 = new Button("Registrar");
-        Button boton2 = new Button("Modificar");
-        Button boton3 = new Button("Eliminar");
-        Button boton4 = new Button("Buscar");
+        Button boton1 = new Button("Registrar Telefono");
+        Button boton2 = new Button("Modificar Telefono");
+        Button boton3 = new Button("Eliminar Telefono");
+        Button boton4 = new Button("Buscar Telefono");
         Button boton5 = new Button("Listar sus Telefonos");
         Button boton6 = new Button("Salir");
         

@@ -21,7 +21,7 @@ public class MiTelefono extends Frame {
     public MiTelefono()
     {
         this.setTitle("Agenda telefonica");
-        this.setSize(600, 400);
+        this.setSize(500, 300);
         this.setLocation(10,10);
         
         BorderLayout border= new BorderLayout();

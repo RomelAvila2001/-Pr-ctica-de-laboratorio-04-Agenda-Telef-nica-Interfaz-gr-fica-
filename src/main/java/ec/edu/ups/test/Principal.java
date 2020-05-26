@@ -5,10 +5,15 @@
  */
 package ec.edu.ups.test;
 
+import ec.edu.ups.vista.MiTelefono;
+
 /**
  *
  * @author NANCY
  */
 public class Principal {
-    
+    public static void main (String []args){
+        
+        MiTelefono ventana = new MiTelefono();
+    }
 }
